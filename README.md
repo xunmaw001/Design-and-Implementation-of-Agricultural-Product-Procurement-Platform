@@ -1,0 +1,2 @@
+# Design-and-Implementation-of-Agricultural-Product-Procurement-Platform
+基于Spring Boot+Vue的助农产品采购平台是一个集农产品展示、采购、订单管理等功能于一体的综合性系统。该平台利用Spring Boot构建高效稳定的后端服务，Vue框架打造直观易用的前端界面，方便用户浏览和采购农产品。通过整合农产品供应链资源，平台致力于帮助农民拓宽销售渠道，提高农产品流通效率，同时也为消费者提供便捷、安全的农产品采购体验，实现助农增收与消费者满意的双赢。
